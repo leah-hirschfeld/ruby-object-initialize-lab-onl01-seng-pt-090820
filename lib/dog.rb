@@ -1,4 +1,5 @@
 class Dog
+  
   def initialize(dogs_name)
     @name = dogs_name
   end
@@ -21,9 +22,6 @@ class Dog
  
   def breed
     @breed
-  if @breed = ("")
-    puts "Mutt"
-  end
   end
 
 end
